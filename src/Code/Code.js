@@ -6,6 +6,9 @@ const CodeData={
 		{id:"audio2018",path:"/code/audio2018",title:"音乐波形"},
 		{id:"frameAnim2018",path:"/code/frameAnim2018",title:"帧动画"},
 		{id:"sun2018",path:"/code/sun2018",title:"圆周运动"},
+		{id:"彩色喷泉2018",path:"/code/彩色喷泉2018",title:"彩色喷泉"},
+		{id:"烟花2018",path:"/code/烟花2018",title:"烟花"},
+		{id:"老虎机2018",path:"/code/老虎机2018",title:"老虎机"},
 	]
 }
 
