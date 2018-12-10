@@ -1,0 +1,36 @@
+.navBox{
+    padding: 1rem;
+}
+.listBox{
+    padding : 0 0.8rem;
+    padding-bottom: 0.5rem;
+}
+.listBox h1{
+    font-size: 1.4rem;
+    font-weight: normal;
+    line-height: 3rem;
+    color: #333;
+}
+.listBox .hr{
+    margin-bottom: 0.5rem;
+    height: 1px;
+    background: #88886f;
+    border: none;
+}
+.listBox ul{
+    padding-left: 2rem;
+}
+.listBox li{
+    font-size: 1.2rem;
+    line-height: 2.2rem;
+    list-style-type: disc;
+}
+.listBox li a{
+    color: #666;
+}
+.listBox p{
+    font-size: 1rem;
+    line-height: 1.8rem;
+    color: #666;
+    padding-left: 1rem;
+}

@@ -1,0 +1,52 @@
+.articleBox{
+    padding: 1rem 0.8rem 2rem 0.8rem;
+}
+/* 头部导航部分 */
+.navigation{
+    margin-bottom: 0.5rem;
+}
+.navigation li{
+    padding: 0 0.5rem;
+}
+
+/* 文章内容部分 */
+.article {
+    padding: 0 0.7rem;
+}
+.article h1{
+    font-size: 2rem;
+    line-height: 5rem;
+    text-align: center;
+}
+.article time{
+    color: #567;
+    font-size: 0.9rem;
+    line-height: 2rem;
+}
+.article .img{
+    margin-top: 0.5rem;
+    border-radius: 0.7rem;
+    overflow: hidden;
+    max-width: 600px;
+}
+.article .img .imgDesc{
+    font-size: 0.9rem;
+    text-align: center;
+    line-height: 2rem;
+    color: #567;
+}
+.article p{
+    font-size: 1rem;
+    line-height: 1.8rem;
+    margin-top: 0.5rem;
+    text-indent: 2em;
+}
+.article .important{
+    background: white;
+    border: 1px solid black;
+    border-radius: 0.7rem;
+    padding: 1rem;
+}
+.article .red{
+    color: red;
+}
