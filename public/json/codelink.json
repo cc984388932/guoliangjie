@@ -2,20 +2,19 @@
 	{
 		"title":"canvas动画",
 		"link":[
-			{"title":"九宫格抽奖", "link":"http://www.guoliangjie.com"},
-			{"title":"三维环境搭建", "link":"http://www.guoliangjie.com"},
-			{"title":"星空", "link":"http://www.guoliangjie.com"},
-			{"title":"水草运动", "link":"http://www.guoliangjie.com"},
-			{"title":"多物体碰撞--质量相同", "link":"http://www.guoliangjie.com"},
-			{"title":"动量守恒--单轴碰撞", "link":"http://www.guoliangjie.com"},
-			{"title":"动量守恒--双轴碰撞", "link":"http://www.guoliangjie.com"},
-			{"title":"缓动动画", "link":"http://www.guoliangjie.com"},
-			{"title":"烟花", "link":"http://www.guoliangjie.com"},
-			{"title":"帧动画", "link":"http://www.guoliangjie.com"},
-			{"title":"万有引力", "link":"http://www.guoliangjie.com"},
-			{"title":"弹性动画", "link":"http://www.guoliangjie.com"},
-			{"title":"太阳系--圆周运动", "link":"http://www.guoliangjie.com"},
-			{"title":"老虎机", "link":"http://www.guoliangjie.com"}
+			{"title":"三维环境搭建", "link":"code/canvas/3dStart/index.html"},
+			{"title":"星空", "link":"code/canvas/3dStar/index.html"},
+			{"title":"水草运动", "link":"code/canvas/aquatic/index.html"},
+			{"title":"多物体碰撞--质量相同", "link":"code/canvas/crash/index.html"},
+			{"title":"动量守恒--单轴碰撞", "link":"code/canvas/dongliang1/index.html"},
+			{"title":"动量守恒--双轴碰撞", "link":"code/canvas/dongliang2/index.html"},
+			{"title":"缓动动画", "link":"code/canvas/easing/index.html"},
+			{"title":"烟花", "link":"code/canvas/fireworks/index.html"},
+			{"title":"帧动画", "link":"code/canvas/frameAnim/index.html"},
+			{"title":"万有引力", "link":"code/canvas/gravitation/index.html"},
+			{"title":"弹性动画", "link":"code/canvas/spring/index.html"},
+			{"title":"太阳系--圆周运动", "link":"code/canvas/sun/index.html"},
+			{"title":"老虎机", "link":"code/canvas/tigermachine/index.html"}
 		]
 	},
 	{
