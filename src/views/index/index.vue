@@ -1,8 +1,8 @@
 <template>
 	<div>
 		<ul>
-			<li><router-link to="/code">代码页面</router-link></li>
-			<li><router-link to="/photo">相册</router-link></li>
+			<li><router-link to="/code">代码练习</router-link></li>
+			<li style="display: none;"><router-link to="/photo">相册</router-link></li>
 		</ul>
 	</div>
 </template>

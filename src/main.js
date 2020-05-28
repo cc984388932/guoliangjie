@@ -6,8 +6,11 @@ import "./request.js";
 
 import App from './App.vue';
 import router from "./router/index.js";
+import vueQriously from 'vue-qriously';
 
 Vue.use(ElementUI);
+Vue.use(vueQriously);
+
 
 new Vue({
 	router,
